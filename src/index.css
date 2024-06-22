@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.leftPenal{
+    width: 20%;
+    float: left;
+    min-height: 990px;
+    background-color: burlywood;
+}
+
+.rightPenal{
+    width: 80%;
+    float: left;
+}
